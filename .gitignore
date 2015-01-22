@@ -1,2 +1,3 @@
 bower_components
-doge.html
+node_modules
+.DS_Store

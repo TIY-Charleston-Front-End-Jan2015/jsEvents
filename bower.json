@@ -1,0 +1,23 @@
+{
+  "name": "jqueryTestBower",
+  "version": "0.0.0",
+  "authors": [
+    "Calvin Webster <calweb@gmail.com>"
+  ],
+  "description": "my doge collection, much happy, very awesone",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "calvin.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
